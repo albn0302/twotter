@@ -3,17 +3,17 @@
 ## Todo
 - [x] Create a new project
 - [x] Add Tailwind CSS
-- [f] Design the UI
-- [f] Add Firebase
-- [f] Add database
-- [f] Create feed
-- [f] Add authentication
-- [f] Add sign up
-- [f] Add sign in
-- [f] Add sign out
-- [f] Create twoot
-- [f] Remove twoot
-- [f] Like/unlike twoot
+- [ ] Design the UI
+- [ ] Add Firebase
+- [ ] Add database
+- [ ] Create feed
+- [ ] Add authentication
+- [ ] Add sign up
+- [ ] Add sign in
+- [ ] Add sign out
+- [ ] Create twoot
+- [ ] Remove twoot
+- [ ] Like/unlike twoot
 
 ## Extra
 - [ ] Support images
