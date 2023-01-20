@@ -3,19 +3,19 @@
 ## Todo
 - [x] Create a new project
 - [x] Add Tailwind CSS
-- [ ] Design the UI
-- [ ] Add Firebase
-- [ ] Add database
-- [ ] Create feed
-- [ ] Add authentication
-- [ ] Add sign up
-- [ ] Add sign in
-- [ ] Add sign out
-- [ ] Create twoot
-- [ ] Remove twoot
-- [ ] Like/unlike twoot
+- [x] Design the UI
+- [x] Add Supabase
+- [x] Add database
+- [x] Create feed
+- [x] Add authentication
+- [x] Add sign up
+- [x] Add sign in
+- [x] Add sign out
+- [x] Create twoot
+- [x] Remove twoot
 
 ## Extra
+- [ ] Like/unlike twoot
 - [ ] Support images
 - [ ] Comment twoot
 - [ ] Retwoot
@@ -24,7 +24,7 @@
 - [ ] Dark mode
 
 ## Description
-Vite + Tailwind CSS + Firebase
+Vite + Tailwind CSS + Supabase
 
 ## Project setup
 
